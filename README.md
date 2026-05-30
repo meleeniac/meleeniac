@@ -1,8 +1,8 @@
 
 <p align="center">
   who let the dogs out👣👣
-
-  <video src="https://github.com/user-attachments/assets/2d83513a-2862-4efa-89b7-b74cd2522955" width="50" >
+<p align="center">
+  <image src="https://github.com/user-attachments/assets/d26fb8ae-6040-4b90-a6d8-7b1f0acf2d2b" width="350" />
 </p>
 
 
